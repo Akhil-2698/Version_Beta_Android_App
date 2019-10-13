@@ -6,7 +6,7 @@ This project aims to provide suggestions on food items based on previous dataset
 The master branch of the repo contains the backend of the system in the form of Jupyter Notebook. The student branch of the repo contains code of android application which is used to take input as well as display output of the script. Google Firebase is used in this project for storing and retrieving data.
 
 
-### Installing
+## Installing
 
 The codes for application is present in student branch of repo which can be used for installing the app in any android system. The back end of the system is present in master branch of the repo, which can be run directly.
 
