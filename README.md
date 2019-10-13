@@ -18,3 +18,6 @@ The output displays whether the food item is suitable or not along with a sugges
 ## Dataset
 We used the following dataset for our project:
 https://data.world/kmpearson/experiment/workspace/file?filename=Fitbit+Experiment.csv
+
+## To see the video
+link:https://drive.google.com/open?id=12K6VyaaERL8xdfHK5SivJBt4ASMsiccZ
