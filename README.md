@@ -13,7 +13,7 @@ The codes for application is present in student branch of repo which can be used
 ## Running the tests
 
 Using the application, we see there are two options to send query to server, first is scanning the barcode of the product and then using speech recognition, for which we use Google Speech Recognition API.
-The output displays whether the food item is suitable or not along with a suggestion for better results.
+The output displays whether the food item is suitable or not along with a suggestion for better result.
 
 ## Dataset
 We used the following dataset for our project:
